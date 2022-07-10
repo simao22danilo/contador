@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  position: center;
+}
+
+#counter {
+  color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  position: center;
+  flex-basis: auto;
+}
+
+p {
+  color: darkgreen;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  position: center;
+}
